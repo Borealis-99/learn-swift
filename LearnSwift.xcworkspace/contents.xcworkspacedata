@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:README.md">
+      location = "group:/Users/rvs/Development/Projects/HarvardExtension/learn-swift/README.md">
    </FileRef>
    <FileRef
       location = "group:1a. The Basics.playground">
@@ -98,21 +98,27 @@
       location = "group:25. Equatable Hashable and Comparable.playground">
    </FileRef>
    <FileRef
-      location = "group:26. Sequences and Iterators.playground">
+      location = "group:26. Value and Reference Types.playground">
    </FileRef>
    <FileRef
-      location = "group:27. Map Reduce and Filter.playground">
+      location = "group:27. Higher Order Functions I.playground">
    </FileRef>
    <FileRef
-      location = "group:28. Value and Reference Types.playground">
+      location = "group:28. Combine I - The Basics.playground">
    </FileRef>
    <FileRef
-      location = "group:29. Top Level Functions.playground">
+      location = "group:29. Higher Order Functions II.playground">
    </FileRef>
    <FileRef
-      location = "group:30. Other Points.playground">
+      location = "group:30. Combine II - Error Handling.playground">
    </FileRef>
    <FileRef
-      location = "group:98. Asynchronicity.playground">
+      location = "group:31. Combine III - Networking.playground">
+   </FileRef>
+   <FileRef
+      location = "group:32. Combine IV - Timers.playground">
+   </FileRef>
+   <FileRef
+      location = "group:33. Combine V - Property Wrappers.playground">
    </FileRef>
 </Workspace>
